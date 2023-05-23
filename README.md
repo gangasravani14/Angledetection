@@ -34,19 +34,13 @@ the OpenCV library using pip, the Python package installer. Open a command promp
 
 Obtain the project files containing the code and resources for the angle detection system. This could be from a Git repository or a provided project archive.
 
-3.Install Required Dependencies:
-
-a. Navigate to the project directory in the command prompt or terminal.
-
-b.Install any additional dependencies or libraries required by the project. These dependencies may vary depending on the specific implementation. Typically, they can be installed using pip by running the command: pip install -r requirements.txt (if a requirements.txt file is provided).
-
-4.Run the Angle Detection System:
+3.Run the Angle Detection System:
 
 a. Execute the main script or application to run the angle detection system. This could be an executable file, depending on the project structure.
 
 b.If needed, pass any required arguments or parameters to the script, such as the input image or video source.
 
-5.Interact with the Angle Detection System:
+4.Interact with the Angle Detection System:
 
 This could involve capturing images or video frames, processing them, and displaying the detected angles.
 
