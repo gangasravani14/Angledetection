@@ -42,14 +42,13 @@ b.Install any additional dependencies or libraries required by the project. Thes
 
 4.Run the Angle Detection System:
 
-a. Execute the main script or application to run the angle detection system. This could be a Python script (e.g., main.py) or an executable file, depending on the project structure.
+a. Execute the main script or application to run the angle detection system. This could be an executable file, depending on the project structure.
 
 b.If needed, pass any required arguments or parameters to the script, such as the input image or video source.
 
 5.Interact with the Angle Detection System:
 
-Once the angle detection 
-system is running, interact with it based on its specific functionality and user interface. This could involve capturing images or video frames, processing them, and displaying the detected angles.
+This could involve capturing images or video frames, processing them, and displaying the detected angles.
 
 
 * **Methodology:**
@@ -113,13 +112,11 @@ analysis and recognition.
 
 3.Construction and Architecture
 
-4.Image Analysis and Object Recognition
+4.Geometric Measurements and Surveying
 
-5.Geometric Measurements and Surveying
+5.Augmented Reality and Virtual Reality
 
-6.Augmented Reality and Virtual Reality
-
-7.Medical Imaging
+6.Medical Imaging
 
 * **Future work**
 
@@ -129,13 +126,9 @@ some potential areas for future work.
 
 2.Calibration and Accuracy Enhancement
 
-3.Real-time Performance Optimization
+3.Integration with Robotics and Automation
 
-4.Angle Tracking and Dynamic Analysis
-
-5.Integration with Robotics and Automation
-
-6.Integration with Other Computer Vision Techniques
+4.Integration with Other Computer Vision Techniques
 
 **Team members**
 1. Ganga sravani
