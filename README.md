@@ -1,5 +1,10 @@
 # Angledetection
-Title: Angle Detection Using Computer Vision and OpenCV
+
+This project was developed during a 24 hour hackathon at RGMCET conducted by BYTS INDIA(BYTS HACKLEAGUE 1.0)
+
+**Title:**
+
+
 
 * **Introduction:**
 
