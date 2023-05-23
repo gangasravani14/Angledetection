@@ -114,3 +114,5 @@ analysis and recognition.
 5. Syra bhanu
 6. Anitha rani
 7. Chandralekha
+
+*For any queries contact **gangasravani12@gmail.com**
