@@ -129,4 +129,9 @@ some potential areas for future work.
 6. Anitha rani
 7. Chandralekha
 
-*For any queries contact **gangasravani12@gmail.com**
+* **Acknowledgement:**
+
+We would like to express our sincere gratitude to BYTS INDIA for organizing the BYTS HACKLEAGUE 1.0 hackathon at RGMCET. We also extend our appreciation to the team members for their dedicated efforts in developing the angle detection project. Special thanks to all the mentors and organizers for their guidance and support throughout the hackathon.
+
+* **Contact**
+For any queries contact **gangasravani12@gmail.com**
