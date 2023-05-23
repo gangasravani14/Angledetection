@@ -25,7 +25,7 @@ visualizing the results for interpretation and analysis.
 
 a. Install visual code editor. 
 
-b. Install Python: Ensure that Python is installed on your system. You can download and install Python from the official Python website (https://www.python.org) based on your operating system.
+b. Install Python: You can download and install Python from the official Python website (https://www.python.org) based on your operating system.
 
 c. Install OpenCV: Install 
 the OpenCV library using pip, the Python package installer. Open a command prompt or terminal and run the following command: pip install opencv-python.
@@ -102,15 +102,13 @@ analysis and recognition.
 
 1.Robotics
 
-2.Manufacturing and Quality Control
+2.Construction and Architecture
 
-3.Construction and Architecture
+3.Geometric Measurements and Surveying
 
-4.Geometric Measurements and Surveying
+4.Augmented Reality and Virtual Reality
 
-5.Augmented Reality and Virtual Reality
-
-6.Medical Imaging
+5.Medical Imaging
 
 * **Future work**
 
@@ -118,11 +116,9 @@ some potential areas for future work.
 
 1.Improved Angle Calculation Methods
 
-2.Calibration and Accuracy Enhancement
+2.Integration with Robotics and Automation
 
-3.Integration with Robotics and Automation
-
-4.Integration with Other Computer Vision Techniques
+3.Integration with Other Computer Vision Techniques
 
 **Team members**
 1. Ganga sravani
